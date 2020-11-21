@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'> 
+  <head>
+    <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/> 
+    
+    <b:include data='blog' name='all-head-content'/> 
+    <title>Tinder</title>
+    <meta content='width=device-width initial-scale=1.0 user-scalable=no minimal-ui' name='viewport'/>
+        <meta content='yes' name='apple-mobile-web-app-capable'/>
+    <meta content='yes' name='mobile-web-app-capable'/>
+    
+    
+    
+    
+    <link href='https://labo.fnac.com/wp-content/uploads/2017/06/tinder-gold-logo.png' rel='icon' type='image/png'/>
+        <meta content='yes' name='apple-mobile-web-app-capable'/>
+        <meta content='yes' name='mobile-web-app-capable'/>
+   
+        <link href='https://labo.fnac.com/wp-content/uploads/2017/06/tinder-gold-logo.png' rel='mobile-touch-icon'/>
+    
+   <b:skin><![CDATA[/*
+-----------------------------------------------
+/////////// HTML THEME////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////TEMPLATE CREATED BY : FRINTON MADTHA////////////////////////////////////////////////////////////
+/////////////////////// DOWNLOAD FROM: www.frinmash.blogspot.com  //////////////////////////////////////////////////
+----------------------------------------------
+]]></b:skin>
+   
+
+  </head>
+  <body>
+   
+    
+
+ 
+
+  <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='no'/>
+
+
+  </body> 
+ 
+
+</html>
